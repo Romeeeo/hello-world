@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository
+Hello my name is Romeo and I am currently a second year student here at SCSU
